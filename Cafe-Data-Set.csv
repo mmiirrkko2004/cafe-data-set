@@ -1,0 +1,501 @@
+No.,Age,Gender,Beverage Ordered,Size,Price,Payment Method,Transaction ID,Staff Name,Staff ID
+1,40,Female,Iced Tea,Large,3.9,Cash,101001,mirko ,100
+2,27,Male,Cold Chocolate,Medium,3.9,Cash,101002,mirko ,102
+3,37,Male,Hot Chocolate,Large,5.2,Mobile Payment,101003,mhamad,101
+4,26,Female,Americano,Medium,3.9,Cash,101004,sarfraz,100
+5,33,Male,Espresso,Large,5.2,Credit Card,101005,Daryan,101
+6,42,Female,Latte,Large,5.2,Mobile Payment,101006,sarfraz,101
+7,25,Female,Cappuccino,Small,2.4,Mobile Payment,101007,sarfraz,101
+8,24,Male,Frappuccino,Large,5.2,Credit Card,101008,mirko ,102
+9,45,Female,Cappuccino,Large,5.2,Cash,101009,mirko ,100
+10,21,Female,Iced Tea,Small,2.4,Mobile Payment,101010,mhamad,100
+11,41,Female,Espresso,Large,5.2,Mobile Payment,101011,sarfraz,100
+12,17,Male,Frappuccino,Large,5.2,Mobile Payment,101012,Daryan,103
+13,40,Male,Frappuccino,Small,2.4,Mobile Payment,101013,sarfraz,100
+14,42,Male,Cold Chocolate,Large,5.2,Credit Card,101014,sarfraz,101
+15,24,Male,Hot Chocolate,Small,2.4,Mobile Payment,101015,mirko ,103
+16,20,Female,Mocha,Medium,3.9,Mobile Payment,101016,mirko ,100
+17,31,Male,Americano,Large,5.2,Mobile Payment,101017,mhamad,101
+18,46,Male,Hot Chocolate,Medium,3.9,Mobile Payment,101018,sarfraz,100
+19,50,Female,Espresso,Medium,3.9,Cash,101019,Daryan,101
+20,49,Male,Frappuccino,Small,2.4,Cash,101020,sarfraz,100
+21,46,Male,Hot Chocolate,Medium,3.9,Credit Card,101021,sarfraz,103
+22,36,Male,Hot Chocolate,Medium,3.9,Credit Card,101022,mirko ,100
+23,44,Male,Iced Tea,Large,5.2,Cash,101023,mirko ,100
+24,47,Female,Cold Brew,Medium,3.9,Mobile Payment,101024,mhamad,102
+25,46,Female,Latte,Large,5.2,Mobile Payment,101025,sarfraz,102
+26,24,Female,Americano,Small,2.4,Mobile Payment,101026,Daryan,103
+27,37,Female,Iced Tea,Large,5.2,Credit Card,101027,sarfraz,101
+28,36,Female,Latte,Large,5.2,Cash,101028,sarfraz,103
+29,27,Male,Cappuccino,Medium,3.9,Cash,101029,mirko ,103
+30,45,Male,Cold Brew,Small,2.4,Mobile Payment,101030,mirko ,101
+31,18,Male,Cold Chocolate,Small,2.4,Cash,101031,mhamad,102
+32,38,Female,Hot Chocolate,Small,2.4,Mobile Payment,101032,sarfraz,103
+33,22,Male,Frappuccino,Small,2.4,Cash,101033,Daryan,102
+34,17,Male,Espresso,Small,2.4,Mobile Payment,101034,sarfraz,102
+35,29,Female,Cappuccino,Small,2.4,Credit Card,101035,sarfraz,102
+36,43,Female,Cold Chocolate,Small,2.4,Cash,101036,mirko ,100
+37,22,Male,Cold Brew,Medium,3.9,Credit Card,101037,mirko ,101
+38,18,Female,Iced Tea,Small,2.4,Cash,101038,mhamad,103
+39,20,Female,Espresso,Large,5.2,Cash,101039,sarfraz,103
+40,35,Male,Frappuccino,Small,2.4,Credit Card,101040,mirko ,102
+41,49,Female,Cappuccino,Large,5.2,Credit Card,101041,mirko ,103
+42,48,Female,Americano,Medium,3.9,Cash,101042,mhamad,103
+43,26,Female,Espresso,Large,5.2,Cash,101043,sarfraz,103
+44,40,Female,Cappuccino,Medium,3.9,Mobile Payment,101044,Daryan,103
+45,28,Male,Cappuccino,Large,5.2,Cash,101045,sarfraz,100
+46,37,Female,Cold Brew,Small,2.4,Credit Card,101046,sarfraz,103
+47,17,Female,Cold Brew,Medium,3.9,Cash,101047,mirko ,103
+48,35,Male,Americano,Small,2.4,Cash,101048,mirko ,101
+49,19,Female,Espresso,Medium,3.9,Mobile Payment,101049,mhamad,102
+50,25,Female,Latte,Medium,3.9,Cash,101050,sarfraz,102
+51,48,Male,Cappuccino,Small,2.4,Mobile Payment,101051,Daryan,102
+52,47,Male,Frappuccino,Small,2.4,Credit Card,101052,sarfraz,102
+53,36,Male,Hot Chocolate,Medium,3.9,Mobile Payment,101053,sarfraz,102
+54,29,Female,Latte,Large,5.2,Credit Card,101054,mirko ,101
+55,23,Female,Iced Tea,Small,2.4,Credit Card,101055,mirko ,103
+56,33,Male,Frappuccino,Small,2.4,Credit Card,101056,mhamad,102
+57,45,Female,Espresso,Medium,3.9,Credit Card,101057,sarfraz,100
+58,22,Male,Latte,Medium,3.9,Credit Card,101058,Daryan,103
+59,41,Female,Espresso,Medium,3.9,Credit Card,101059,sarfraz,102
+60,33,Male,Hot Chocolate,Small,2.4,Cash,101060,sarfraz,103
+61,31,Female,Cappuccino,Large,5.2,Cash,101061,mirko ,103
+62,27,Male,Hot Chocolate,Medium,3.9,Credit Card,101062,mirko ,101
+63,37,Female,Latte,Small,2.4,Credit Card,101063,mhamad,103
+64,38,Male,Espresso,Small,2.4,Credit Card,101064,sarfraz,103
+65,22,Female,Mocha,Large,5.2,Mobile Payment,101065,Daryan,100
+66,20,Female,Cold Chocolate,Small,2.4,Cash,101066,sarfraz,101
+67,47,Female,Mocha,Small,2.4,Cash,101067,sarfraz,102
+68,43,Male,Cappuccino,Small,2.4,Mobile Payment,101068,mirko ,103
+69,18,Female,Cold Brew,Small,2.4,Mobile Payment,101069,mirko ,102
+70,26,Male,Espresso,Large,5.2,Mobile Payment,101070,mhamad,101
+71,34,Male,Frappuccino,Medium,3.9,Cash,101071,sarfraz,102
+72,30,Female,Frappuccino,Medium,3.9,Cash,101072,Daryan,102
+73,29,Female,Espresso,Medium,3.9,Credit Card,101073,sarfraz,103
+74,26,Female,Cold Brew,Medium,3.9,Credit Card,101074,sarfraz,102
+75,36,Female,Cold Brew,Small,2.4,Mobile Payment,101075,mirko ,102
+76,24,Male,Iced Tea,Small,2.4,Mobile Payment,101076,mirko ,102
+77,18,Female,Mocha,Medium,3.9,Cash,101077,mhamad,103
+78,39,Female,Frappuccino,Medium,3.9,Mobile Payment,101078,sarfraz,103
+79,17,Female,Cappuccino,Medium,3.9,Cash,101079,mirko ,102
+80,41,Male,Iced Tea,Medium,3.9,Credit Card,101080,mirko ,100
+81,37,Female,Espresso,Large,5.2,Mobile Payment,101081,mhamad,103
+82,29,Male,Mocha,Medium,3.9,Credit Card,101082,sarfraz,100
+83,27,Female,Espresso,Small,2.4,Mobile Payment,101083,Daryan,100
+84,39,Male,Espresso,Large,5.2,Cash,101084,sarfraz,100
+85,42,Female,Mocha,Medium,3.9,Mobile Payment,101085,sarfraz,101
+86,47,Female,Espresso,Medium,3.9,Mobile Payment,101086,mirko ,102
+87,21,Male,Espresso,Small,2.4,Cash,101087,mirko ,103
+88,24,Female,Espresso,Large,5.2,Credit Card,101088,mhamad,100
+89,23,Female,Cappuccino,Large,5.2,Cash,101089,sarfraz,100
+90,35,Female,Hot Chocolate,Small,2.4,Mobile Payment,101090,Daryan,103
+91,38,Male,Cappuccino,Small,2.4,Mobile Payment,101091,sarfraz,101
+92,44,Male,Cold Chocolate,Large,5.2,Cash,101092,sarfraz,103
+93,33,Female,Frappuccino,Medium,3.9,Cash,101093,mirko ,100
+94,17,Female,Frappuccino,Large,5.2,Cash,101094,mirko ,101
+95,17,Female,Hot Chocolate,Large,5.2,Credit Card,101095,mhamad,100
+96,24,Female,Cold Brew,Large,5.2,Credit Card,101096,sarfraz,102
+97,40,Female,Cappuccino,Medium,3.9,Credit Card,101097,Daryan,102
+98,49,Female,Frappuccino,Small,2.4,Cash,101098,sarfraz,102
+99,23,Female,Frappuccino,Small,2.4,Cash,101099,sarfraz,102
+100,49,Male,Espresso,Large,5.2,Credit Card,101100,mirko ,100
+101,27,Female,Hot Chocolate,Medium,3.9,Cash,101101,mirko ,103
+102,40,Female,Hot Chocolate,Medium,3.9,Credit Card,101102,mhamad,101
+103,31,Female,Hot Chocolate,Small,2.4,Mobile Payment,101103,sarfraz,101
+104,40,Male,Iced Tea,Large,5.2,Mobile Payment,101104,Daryan,100
+105,20,Female,Espresso,Medium,3.9,Credit Card,101105,sarfraz,101
+106,49,Female,Iced Tea,Large,5.2,Cash,101106,sarfraz,103
+107,42,Female,Latte,Large,5.2,Mobile Payment,101107,mirko ,101
+108,35,Male,Espresso,Small,2.4,Mobile Payment,101108,mirko ,100
+109,20,Male,Cold Brew,Large,5.2,Mobile Payment,101109,mhamad,101
+110,41,Female,Espresso,Large,5.2,Mobile Payment,101110,sarfraz,102
+111,47,Male,Americano,Large,5.2,Mobile Payment,101111,Daryan,102
+112,40,Male,Hot Chocolate,Large,5.2,Mobile Payment,101112,sarfraz,103
+113,17,Female,Cold Chocolate,Medium,3.9,Cash,101113,sarfraz,100
+114,46,Male,Hot Chocolate,Medium,3.9,Mobile Payment,101114,mirko ,101
+115,43,Male,Cold Chocolate,Small,2.4,Cash,101115,mirko ,101
+116,26,Male,Cold Brew,Medium,3.9,Credit Card,101116,mhamad,101
+117,43,Female,Hot Chocolate,Small,2.4,Cash,101117,sarfraz,102
+118,48,Female,Hot Chocolate,Large,5.2,Mobile Payment,101118,mirko ,102
+119,43,Female,Frappuccino,Medium,3.9,Cash,101119,mirko ,103
+120,46,Female,Hot Chocolate,Small,2.4,Credit Card,101120,mhamad,102
+121,27,Male,Iced Tea,Medium,3.9,Credit Card,101121,sarfraz,100
+122,36,Female,Latte,Small,2.4,Credit Card,101122,Daryan,101
+123,36,Male,Mocha,Large,5.2,Mobile Payment,101123,sarfraz,103
+124,26,Male,Frappuccino,Small,2.4,Mobile Payment,101124,sarfraz,101
+125,30,Female,Frappuccino,Large,5.2,Cash,101125,mirko ,102
+126,19,Male,Iced Tea,Medium,3.9,Credit Card,101126,mirko ,102
+127,22,Male,Cold Brew,Large,5.2,Mobile Payment,101127,mhamad,101
+128,49,Female,Mocha,Large,5.2,Cash,101128,sarfraz,102
+129,37,Male,Frappuccino,Small,2.4,Mobile Payment,101129,Daryan,103
+130,34,Male,Mocha,Large,5.2,Credit Card,101130,sarfraz,101
+131,42,Male,Iced Tea,Small,2.4,Credit Card,101131,sarfraz,102
+132,19,Female,Latte,Medium,3.9,Mobile Payment,101132,mirko ,103
+133,44,Female,Americano,Large,5.2,Mobile Payment,101133,mirko ,101
+134,26,Female,Hot Chocolate,Large,5.2,Mobile Payment,101134,mhamad,100
+135,23,Male,Iced Tea,Large,5.2,Credit Card,101135,sarfraz,102
+136,40,Female,Espresso,Medium,3.9,Mobile Payment,101136,Daryan,100
+137,26,Female,Cappuccino,Medium,3.9,Cash,101137,sarfraz,101
+138,32,Female,Americano,Large,5.2,Cash,101138,sarfraz,103
+139,29,Male,Cold Brew,Medium,3.9,Cash,101139,mirko ,101
+140,49,Male,Cold Chocolate,Small,2.4,Cash,101140,mirko ,100
+141,22,Male,Hot Chocolate,Medium,3.9,Credit Card,101141,mhamad,101
+142,37,Male,Mocha,Medium,3.9,Cash,101142,sarfraz,101
+143,34,Female,Iced Tea,Small,2.4,Cash,101143,Daryan,102
+144,23,Male,Hot Chocolate,Large,5.2,Cash,101144,sarfraz,101
+145,21,Male,Cold Brew,Small,2.4,Mobile Payment,101145,sarfraz,102
+146,27,Female,Cold Brew,Medium,3.9,Cash,101146,mirko ,102
+147,31,Male,Iced Tea,Large,5.2,Cash,101147,mirko ,102
+148,48,Male,Espresso,Small,2.4,Cash,101148,mhamad,100
+149,44,Female,Cold Brew,Medium,3.9,Cash,101149,sarfraz,103
+150,24,Female,Latte,Medium,3.9,Mobile Payment,101150,Daryan,103
+151,34,Female,Americano,Medium,3.9,Credit Card,101151,sarfraz,102
+152,20,Male,Iced Tea,Large,5.2,Credit Card,101152,sarfraz,102
+153,22,Female,Frappuccino,Medium,3.9,Cash,101153,mirko ,103
+154,43,Female,Cold Chocolate,Small,2.4,Mobile Payment,101154,mirko ,100
+155,35,Male,Cold Chocolate,Small,2.4,Mobile Payment,101155,mhamad,101
+156,34,Male,Iced Tea,Large,5.2,Credit Card,101156,sarfraz,100
+157,29,Female,Cappuccino,Small,2.4,Cash,101157,mirko ,102
+158,18,Male,Cold Chocolate,Small,2.4,Credit Card,101158,mirko ,101
+159,29,Male,Hot Chocolate,Large,5.2,Cash,101159,mhamad,103
+160,33,Female,Iced Tea,Small,2.4,Cash,101160,sarfraz,101
+161,38,Female,Cappuccino,Medium,3.9,Cash,101161,Daryan,103
+162,49,Female,Cappuccino,Large,5.2,Cash,101162,sarfraz,103
+163,47,Male,Mocha,Medium,3.9,Cash,101163,sarfraz,100
+164,21,Female,Iced Tea,Medium,3.9,Mobile Payment,101164,mirko ,100
+165,28,Male,Latte,Small,2.4,Mobile Payment,101165,mirko ,101
+166,42,Female,Mocha,Small,2.4,Cash,101166,mhamad,103
+167,38,Male,Iced Tea,Medium,3.9,Cash,101167,sarfraz,102
+168,43,Male,Mocha,Medium,3.9,Credit Card,101168,Daryan,103
+169,35,Male,Hot Chocolate,Large,5.2,Mobile Payment,101169,sarfraz,101
+170,25,Female,Iced Tea,Medium,3.9,Cash,101170,sarfraz,100
+171,42,Female,Espresso,Large,5.2,Cash,101171,mirko ,103
+172,35,Male,Hot Chocolate,Medium,3.9,Cash,101172,mirko ,102
+173,21,Male,Mocha,Large,5.2,Cash,101173,mhamad,103
+174,34,Male,Mocha,Large,5.2,Mobile Payment,101174,sarfraz,103
+175,43,Male,Americano,Large,5.2,Mobile Payment,101175,Daryan,103
+176,21,Male,Americano,Medium,3.9,Mobile Payment,101176,sarfraz,100
+177,36,Female,Americano,Large,5.2,Credit Card,101177,sarfraz,103
+178,31,Female,Americano,Medium,3.9,Cash,101178,mirko ,102
+179,21,Female,Iced Tea,Large,5.2,Mobile Payment,101179,mirko ,102
+180,35,Female,Latte,Medium,3.9,Mobile Payment,101180,mhamad,103
+181,41,Male,Mocha,Large,5.2,Credit Card,101181,sarfraz,100
+182,44,Male,Espresso,Medium,3.9,Mobile Payment,101182,Daryan,101
+183,32,Female,Mocha,Small,2.4,Credit Card,101183,sarfraz,103
+184,28,Female,Espresso,Small,2.4,Credit Card,101184,sarfraz,102
+185,45,Female,Latte,Large,5.2,Cash,101185,mirko ,102
+186,28,Male,Latte,Medium,3.9,Cash,101186,mirko ,100
+187,49,Female,Cold Brew,Small,2.4,Cash,101187,mhamad,101
+188,23,Male,Cold Chocolate,Medium,3.9,Cash,101188,sarfraz,100
+189,35,Male,Hot Chocolate,Small,2.4,Mobile Payment,101189,Daryan,103
+190,41,Female,Hot Chocolate,Small,2.4,Mobile Payment,101190,sarfraz,103
+191,45,Female,Mocha,Small,2.4,Cash,101191,sarfraz,101
+192,37,Male,Latte,Large,5.2,Credit Card,101192,mirko ,100
+193,33,Female,Cappuccino,Medium,3.9,Cash,101193,mirko ,100
+194,29,Male,Cappuccino,Large,5.2,Cash,101194,mhamad,100
+195,39,Female,Mocha,Medium,3.9,Cash,101195,sarfraz,103
+196,25,Female,Frappuccino,Medium,3.9,Mobile Payment,101196,mirko ,103
+197,24,Male,Hot Chocolate,Large,5.2,Credit Card,101197,mirko ,103
+198,17,Male,Frappuccino,Small,2.4,Mobile Payment,101198,mhamad,101
+199,34,Female,Cappuccino,Medium,3.9,Credit Card,101199,sarfraz,100
+200,33,Female,Iced Tea,Medium,3.9,Mobile Payment,101200,Daryan,103
+201,38,Female,Frappuccino,Medium,3.9,Cash,101201,sarfraz,103
+202,50,Female,Cappuccino,Small,2.4,Mobile Payment,101202,sarfraz,101
+203,23,Female,Frappuccino,Medium,3.9,Mobile Payment,101203,mirko ,103
+204,50,Male,Latte,Small,2.4,Credit Card,101204,mirko ,103
+205,25,Female,Cappuccino,Large,5.2,Cash,101205,mhamad,102
+206,48,Female,Iced Tea,Medium,3.9,Credit Card,101206,sarfraz,100
+207,34,Male,Hot Chocolate,Medium,3.9,Credit Card,101207,Daryan,102
+208,20,Male,Latte,Small,2.4,Mobile Payment,101208,sarfraz,103
+209,42,Female,Cold Brew,Small,2.4,Mobile Payment,101209,sarfraz,102
+210,33,Male,Cappuccino,Medium,3.9,Cash,101210,mirko ,103
+211,38,Female,Latte,Large,5.2,Credit Card,101211,mirko ,102
+212,42,Female,Cold Brew,Medium,3.9,Credit Card,101212,mhamad,101
+213,28,Male,Cold Chocolate,Small,2.4,Cash,101213,sarfraz,102
+214,30,Female,Cold Brew,Small,2.4,Cash,101214,Daryan,101
+215,41,Female,Frappuccino,Large,5.2,Cash,101215,sarfraz,102
+216,33,Male,Latte,Small,2.4,Cash,101216,sarfraz,102
+217,23,Male,Iced Tea,Large,5.2,Mobile Payment,101217,mirko ,102
+218,45,Male,Hot Chocolate,Large,5.2,Credit Card,101218,mirko ,101
+219,28,Female,Iced Tea,Large,5.2,Mobile Payment,101219,mhamad,100
+220,31,Male,Latte,Medium,3.9,Credit Card,101220,sarfraz,102
+221,22,Female,Iced Tea,Medium,3.9,Mobile Payment,101221,Daryan,100
+222,48,Female,Cold Chocolate,Small,2.4,Credit Card,101222,sarfraz,102
+223,22,Female,Cappuccino,Medium,3.9,Cash,101223,sarfraz,102
+224,47,Male,Frappuccino,Large,5.2,Credit Card,101224,mirko ,103
+225,49,Male,Americano,Small,2.4,Mobile Payment,101225,mirko ,103
+226,32,Female,Mocha,Medium,3.9,Mobile Payment,101226,mhamad,101
+227,44,Male,Americano,Small,2.4,Credit Card,101227,sarfraz,100
+228,42,Female,Cold Chocolate,Large,5.2,Credit Card,101228,Daryan,100
+229,34,Female,Iced Tea,Medium,3.9,Mobile Payment,101229,sarfraz,100
+230,37,Female,Cold Brew,Small,2.4,Mobile Payment,101230,sarfraz,100
+231,47,Female,Mocha,Medium,3.9,Mobile Payment,101231,mirko ,101
+232,31,Female,Mocha,Small,2.4,Mobile Payment,101232,mirko ,103
+233,50,Female,Americano,Large,5.2,Cash,101233,mhamad,100
+234,38,Male,Hot Chocolate,Medium,3.9,Cash,101234,sarfraz,103
+235,19,Female,Hot Chocolate,Medium,3.9,Credit Card,101235,mirko ,101
+236,44,Female,Iced Tea,Large,5.2,Cash,101236,mirko ,103
+237,30,Male,Iced Tea,Large,5.2,Mobile Payment,101237,mhamad,102
+238,44,Female,Mocha,Large,5.2,Credit Card,101238,sarfraz,100
+239,32,Female,Hot Chocolate,Small,2.4,Credit Card,101239,Daryan,100
+240,41,Male,Hot Chocolate,Small,2.4,Cash,101240,sarfraz,101
+241,22,Female,Cold Chocolate,Small,2.4,Cash,101241,sarfraz,100
+242,50,Male,Hot Chocolate,Small,2.4,Cash,101242,mirko ,102
+243,18,Male,Cold Brew,Small,2.4,Mobile Payment,101243,mirko ,101
+244,33,Female,Cold Brew,Medium,3.9,Credit Card,101244,mhamad,101
+245,50,Female,Latte,Medium,3.9,Cash,101245,sarfraz,103
+246,44,Female,Latte,Medium,3.9,Mobile Payment,101246,Daryan,101
+247,38,Male,Frappuccino,Large,5.2,Credit Card,101247,sarfraz,102
+248,47,Female,Cold Chocolate,Medium,3.9,Mobile Payment,101248,sarfraz,102
+249,26,Male,Iced Tea,Small,2.4,Cash,101249,mirko ,102
+250,48,Female,Cold Chocolate,Small,2.4,Credit Card,101250,mirko ,103
+251,49,Male,Americano,Small,2.4,Credit Card,101251,mhamad,100
+252,49,Male,Latte,Large,5.2,Credit Card,101252,sarfraz,103
+253,21,Male,Latte,Small,2.4,Credit Card,101253,Daryan,100
+254,24,Male,Iced Tea,Large,5.2,Cash,101254,sarfraz,100
+255,34,Female,Mocha,Large,5.2,Mobile Payment,101255,sarfraz,101
+256,39,Female,Iced Tea,Large,5.2,Mobile Payment,101256,mirko ,101
+257,37,Male,Hot Chocolate,Large,5.2,Credit Card,101257,mirko ,102
+258,25,Male,Iced Tea,Small,2.4,Credit Card,101258,mhamad,100
+259,29,Female,Hot Chocolate,Small,2.4,Cash,101259,sarfraz,103
+260,49,Male,Cold Brew,Medium,3.9,Cash,101260,Daryan,100
+261,27,Male,Cold Brew,Large,5.2,Cash,101261,sarfraz,100
+262,30,Female,Iced Tea,Small,2.4,Credit Card,101262,sarfraz,102
+263,26,Female,Cold Brew,Small,2.4,Mobile Payment,101263,mirko ,102
+264,40,Female,Cold Chocolate,Small,2.4,Cash,101264,mirko ,103
+265,49,Female,Americano,Small,2.4,Mobile Payment,101265,mhamad,101
+266,18,Male,Hot Chocolate,Medium,3.9,Credit Card,101266,sarfraz,100
+267,37,Male,Frappuccino,Small,2.4,Credit Card,101267,Daryan,103
+268,41,Female,Cold Brew,Medium,3.9,Cash,101268,sarfraz,100
+269,28,Male,Latte,Small,2.4,Credit Card,101269,sarfraz,101
+270,27,Female,Latte,Small,2.4,Cash,101270,mirko ,101
+271,38,Female,Americano,Medium,3.9,Credit Card,101271,mirko ,100
+272,42,Female,Americano,Medium,3.9,Mobile Payment,101272,mhamad,103
+273,21,Male,Latte,Medium,3.9,Credit Card,101273,sarfraz,102
+274,37,Female,Latte,Medium,3.9,Credit Card,101274,mirko ,100
+275,38,Male,Latte,Large,5.2,Mobile Payment,101275,mirko ,103
+276,42,Male,Americano,Medium,3.9,Cash,101276,mhamad,103
+277,19,Female,Cold Chocolate,Medium,3.9,Credit Card,101277,sarfraz,102
+278,35,Male,Hot Chocolate,Small,2.4,Mobile Payment,101278,Daryan,100
+279,46,Male,Iced Tea,Large,5.2,Cash,101279,sarfraz,101
+280,21,Male,Iced Tea,Large,5.2,Mobile Payment,101280,sarfraz,102
+281,46,Male,Cold Chocolate,Large,5.2,Mobile Payment,101281,mirko ,101
+282,34,Female,Mocha,Medium,3.9,Cash,101282,mirko ,102
+283,45,Male,Mocha,Medium,3.9,Cash,101283,mhamad,101
+284,43,Female,Cold Brew,Medium,3.9,Mobile Payment,101284,sarfraz,103
+285,43,Male,Mocha,Large,5.2,Cash,101285,Daryan,101
+286,38,Female,Cold Brew,Medium,3.9,Mobile Payment,101286,sarfraz,100
+287,25,Male,Cappuccino,Large,5.2,Mobile Payment,101287,sarfraz,102
+288,50,Female,Americano,Small,2.4,Mobile Payment,101288,mirko ,101
+289,36,Male,Cold Chocolate,Medium,3.9,Credit Card,101289,mirko ,103
+290,29,Male,Latte,Large,5.2,Cash,101290,mhamad,100
+291,32,Female,Mocha,Large,5.2,Mobile Payment,101291,sarfraz,100
+292,40,Female,Hot Chocolate,Large,5.2,Cash,101292,Daryan,102
+293,44,Male,Americano,Small,2.4,Mobile Payment,101293,sarfraz,101
+294,47,Male,Cappuccino,Medium,3.9,Mobile Payment,101294,sarfraz,103
+295,20,Female,Americano,Large,5.2,Mobile Payment,101295,mirko ,100
+296,20,Female,Latte,Small,2.4,Mobile Payment,101296,mirko ,103
+297,47,Male,Hot Chocolate,Small,2.4,Mobile Payment,101297,mhamad,101
+298,23,Male,Hot Chocolate,Medium,3.9,Credit Card,101298,sarfraz,102
+299,19,Male,Iced Tea,Large,5.2,Mobile Payment,101299,Daryan,100
+300,18,Female,Hot Chocolate,Small,2.4,Cash,101300,sarfraz,100
+301,47,Female,Hot Chocolate,Medium,3.9,Cash,101301,sarfraz,101
+302,24,Female,Americano,Small,2.4,Cash,101302,mirko ,103
+303,21,Female,Cold Brew,Small,2.4,Mobile Payment,101303,mirko ,100
+304,37,Female,Espresso,Medium,3.9,Credit Card,101304,mhamad,102
+305,18,Female,Cold Brew,Medium,3.9,Credit Card,101305,sarfraz,102
+306,49,Female,Frappuccino,Large,5.2,Credit Card,101306,Daryan,100
+307,37,Female,Cold Brew,Medium,3.9,Cash,101307,sarfraz,103
+308,50,Male,Iced Tea,Medium,3.9,Credit Card,101308,sarfraz,102
+309,41,Male,Mocha,Large,5.2,Credit Card,101309,mirko ,103
+310,43,Male,Mocha,Small,2.4,Cash,101310,mirko ,102
+311,28,Female,Cold Brew,Large,5.2,Mobile Payment,101311,mhamad,103
+312,34,Male,Mocha,Small,2.4,Credit Card,101312,sarfraz,102
+313,20,Female,Frappuccino,Large,5.2,Credit Card,101313,mirko ,102
+314,50,Male,Hot Chocolate,Medium,3.9,Cash,101314,mirko ,102
+315,31,Male,Latte,Small,2.4,Credit Card,101315,mhamad,100
+316,36,Male,Frappuccino,Small,2.4,Cash,101316,sarfraz,100
+317,27,Female,Latte,Small,2.4,Credit Card,101317,Daryan,102
+318,41,Male,Hot Chocolate,Large,5.2,Mobile Payment,101318,sarfraz,103
+319,25,Male,Hot Chocolate,Large,5.2,Credit Card,101319,sarfraz,102
+320,43,Male,Cold Brew,Large,5.2,Credit Card,101320,mirko ,103
+321,28,Female,Latte,Medium,3.9,Credit Card,101321,mirko ,101
+322,50,Male,Espresso,Large,5.2,Cash,101322,mhamad,103
+323,45,Female,Cold Brew,Small,2.4,Credit Card,101323,sarfraz,103
+324,17,Female,Cold Chocolate,Medium,3.9,Mobile Payment,101324,Daryan,100
+325,22,Male,Iced Tea,Small,2.4,Cash,101325,sarfraz,101
+326,32,Female,Americano,Medium,3.9,Cash,101326,sarfraz,101
+327,36,Female,Hot Chocolate,Small,2.4,Cash,101327,mirko ,101
+328,24,Female,Hot Chocolate,Medium,3.9,Mobile Payment,101328,mirko ,102
+329,28,Female,Cold Brew,Small,2.4,Credit Card,101329,mhamad,101
+330,29,Female,Frappuccino,Large,5.2,Cash,101330,sarfraz,102
+331,41,Female,Cold Brew,Small,2.4,Credit Card,101331,Daryan,102
+332,32,Male,Mocha,Large,5.2,Credit Card,101332,sarfraz,101
+333,19,Female,Latte,Medium,3.9,Mobile Payment,101333,sarfraz,100
+334,20,Male,Espresso,Small,2.4,Credit Card,101334,mirko ,103
+335,46,Female,Cold Chocolate,Small,2.4,Mobile Payment,101335,mirko ,101
+336,41,Male,Espresso,Large,5.2,Credit Card,101336,mhamad,100
+337,22,Female,Cold Chocolate,Medium,3.9,Cash,101337,sarfraz,102
+338,27,Female,Cold Brew,Medium,3.9,Credit Card,101338,Daryan,100
+339,22,Female,Americano,Small,2.4,Mobile Payment,101339,sarfraz,100
+340,29,Male,Cold Chocolate,Medium,3.9,Credit Card,101340,sarfraz,100
+341,40,Female,Cappuccino,Large,5.2,Mobile Payment,101341,mirko ,101
+342,33,Male,Cold Chocolate,Small,2.4,Credit Card,101342,mirko ,102
+343,26,Male,Iced Tea,Medium,3.9,Credit Card,101343,mhamad,100
+344,44,Female,Iced Tea,Small,2.4,Mobile Payment,101344,sarfraz,101
+345,46,Female,Hot Chocolate,Large,5.2,Mobile Payment,101345,Daryan,103
+346,26,Male,Latte,Small,2.4,Mobile Payment,101346,sarfraz,103
+347,18,Male,Cold Chocolate,Small,2.4,Cash,101347,sarfraz,100
+348,44,Female,Mocha,Large,5.2,Cash,101348,mirko ,100
+349,24,Female,Cold Brew,Medium,3.9,Mobile Payment,101349,mirko ,103
+350,36,Male,Cappuccino,Small,2.4,Cash,101350,mhamad,101
+351,47,Female,Latte,Large,5.2,Credit Card,101351,sarfraz,101
+352,40,Female,Mocha,Small,2.4,Cash,101352,mirko ,100
+353,43,Female,Mocha,Large,5.2,Credit Card,101353,mirko ,101
+354,21,Male,Hot Chocolate,Medium,3.9,Mobile Payment,101354,mhamad,102
+355,43,Female,Mocha,Small,2.4,Cash,101355,sarfraz,103
+356,39,Male,Cappuccino,Small,2.4,Cash,101356,Daryan,101
+357,22,Female,Cappuccino,Large,5.2,Cash,101357,sarfraz,101
+358,24,Female,Espresso,Medium,3.9,Cash,101358,sarfraz,100
+359,17,Female,Americano,Medium,3.9,Mobile Payment,101359,mirko ,103
+360,33,Male,Mocha,Large,5.2,Credit Card,101360,mirko ,101
+361,29,Male,Latte,Small,2.4,Cash,101361,mhamad,102
+362,46,Male,Americano,Large,5.2,Credit Card,101362,sarfraz,101
+363,37,Female,Hot Chocolate,Small,2.4,Cash,101363,Daryan,100
+364,21,Female,Cold Brew,Medium,3.9,Mobile Payment,101364,sarfraz,103
+365,40,Female,Cold Chocolate,Small,2.4,Credit Card,101365,sarfraz,103
+366,19,Female,Latte,Small,2.4,Cash,101366,mirko ,101
+367,18,Female,Americano,Medium,3.9,Credit Card,101367,mirko ,103
+368,17,Female,Americano,Small,2.4,Mobile Payment,101368,mhamad,103
+369,40,Male,Cold Brew,Large,5.2,Credit Card,101369,sarfraz,102
+370,47,Male,Iced Tea,Small,2.4,Cash,101370,Daryan,100
+371,25,Female,Americano,Small,2.4,Mobile Payment,101371,sarfraz,100
+372,49,Male,Latte,Large,5.2,Cash,101372,sarfraz,102
+373,43,Female,Iced Tea,Large,5.2,Mobile Payment,101373,mirko ,101
+374,40,Female,Mocha,Large,5.2,Cash,101374,mirko ,102
+375,27,Male,Cappuccino,Medium,3.9,Mobile Payment,101375,mhamad,102
+376,30,Male,Hot Chocolate,Large,5.2,Mobile Payment,101376,sarfraz,100
+377,21,Female,Mocha,Large,5.2,Mobile Payment,101377,Daryan,101
+378,22,Male,Americano,Large,5.2,Cash,101378,sarfraz,101
+379,37,Female,Cold Chocolate,Medium,3.9,Cash,101379,sarfraz,103
+380,37,Male,Cold Brew,Medium,3.9,Mobile Payment,101380,mirko ,103
+381,38,Female,Cold Chocolate,Large,5.2,Mobile Payment,101381,mirko ,103
+382,37,Male,Iced Tea,Medium,3.9,Mobile Payment,101382,mhamad,103
+383,43,Male,Cold Brew,Small,2.4,Mobile Payment,101383,sarfraz,102
+384,30,Female,Frappuccino,Large,5.2,Mobile Payment,101384,Daryan,101
+385,47,Female,Iced Tea,Medium,3.9,Mobile Payment,101385,sarfraz,102
+386,48,Male,Cold Brew,Large,5.2,Cash,101386,sarfraz,100
+387,34,Female,Espresso,Small,2.4,Cash,101387,mirko ,103
+388,42,Female,Cappuccino,Large,5.2,Credit Card,101388,mirko ,100
+389,22,Female,Cappuccino,Medium,3.9,Cash,101389,mhamad,103
+390,43,Female,Espresso,Medium,3.9,Mobile Payment,101390,sarfraz,101
+391,47,Male,Latte,Medium,3.9,Credit Card,101391,mirko ,102
+392,36,Female,Hot Chocolate,Large,5.2,Cash,101392,mirko ,100
+393,30,Female,Frappuccino,Large,5.2,Cash,101393,mhamad,101
+394,46,Female,Hot Chocolate,Large,5.2,Credit Card,101394,sarfraz,102
+395,26,Female,Cappuccino,Small,2.4,Mobile Payment,101395,Daryan,101
+396,34,Female,Espresso,Large,5.2,Credit Card,101396,sarfraz,103
+397,48,Male,Espresso,Small,2.4,Mobile Payment,101397,sarfraz,103
+398,37,Male,Americano,Small,2.4,Credit Card,101398,mirko ,100
+399,23,Male,Iced Tea,Small,2.4,Cash,101399,mirko ,102
+400,26,Female,Cold Chocolate,Medium,3.9,Credit Card,101400,mhamad,103
+401,47,Male,Cappuccino,Small,2.4,Mobile Payment,101401,sarfraz,103
+402,19,Female,Latte,Small,2.4,Cash,101402,Daryan,103
+403,18,Male,Cold Chocolate,Small,2.4,Mobile Payment,101403,sarfraz,102
+404,29,Female,Mocha,Medium,3.9,Mobile Payment,101404,sarfraz,101
+405,27,Female,Iced Tea,Small,2.4,Mobile Payment,101405,mirko ,102
+406,46,Male,Frappuccino,Small,2.4,Cash,101406,mirko ,100
+407,49,Male,Frappuccino,Large,5.2,Cash,101407,mhamad,100
+408,20,Female,Cold Chocolate,Small,2.4,Mobile Payment,101408,sarfraz,101
+409,38,Male,Americano,Medium,3.9,Cash,101409,Daryan,103
+410,42,Male,Espresso,Large,5.2,Mobile Payment,101410,sarfraz,101
+411,34,Female,Hot Chocolate,Large,5.2,Credit Card,101411,sarfraz,101
+412,18,Male,Mocha,Large,5.2,Mobile Payment,101412,mirko ,102
+413,17,Female,Espresso,Medium,3.9,Mobile Payment,101413,mirko ,100
+414,29,Female,Cold Brew,Medium,3.9,Cash,101414,mhamad,101
+415,32,Male,Cold Chocolate,Small,2.4,Credit Card,101415,sarfraz,101
+416,21,Female,Espresso,Large,5.2,Cash,101416,Daryan,100
+417,18,Male,Hot Chocolate,Large,5.2,Cash,101417,sarfraz,101
+418,48,Male,Mocha,Small,2.4,Mobile Payment,101418,sarfraz,101
+419,37,Male,Frappuccino,Large,5.2,Cash,101419,mirko ,100
+420,40,Male,Americano,Small,2.4,Mobile Payment,101420,mirko ,102
+421,42,Female,Cappuccino,Large,5.2,Cash,101421,mhamad,103
+422,30,Female,Hot Chocolate,Medium,3.9,Mobile Payment,101422,sarfraz,103
+423,30,Male,Americano,Medium,3.9,Credit Card,101423,Daryan,100
+424,45,Male,Hot Chocolate,Medium,3.9,Cash,101424,sarfraz,102
+425,33,Male,Americano,Medium,3.9,Mobile Payment,101425,sarfraz,103
+426,31,Male,Cold Chocolate,Large,5.2,Cash,101426,mirko ,102
+427,39,Female,Cappuccino,Large,5.2,Cash,101427,mirko ,100
+428,25,Male,Espresso,Medium,3.9,Credit Card,101428,mhamad,103
+429,46,Male,Mocha,Large,5.2,Credit Card,101429,sarfraz,100
+430,24,Male,Mocha,Small,2.4,Cash,101430,mirko ,102
+431,22,Male,Latte,Small,2.4,Cash,101431,mirko ,101
+432,27,Male,Hot Chocolate,Large,5.2,Credit Card,101432,mhamad,101
+433,27,Female,Latte,Medium,3.9,Mobile Payment,101433,sarfraz,102
+434,42,Male,Mocha,Medium,3.9,Mobile Payment,101434,Daryan,103
+435,30,Male,Cappuccino,Small,2.4,Mobile Payment,101435,sarfraz,100
+436,17,Male,Espresso,Small,2.4,Credit Card,101436,sarfraz,102
+437,17,Female,Frappuccino,Small,2.4,Mobile Payment,101437,mirko ,101
+438,49,Female,Cold Chocolate,Small,2.4,Mobile Payment,101438,mirko ,102
+439,37,Female,Cold Brew,Medium,3.9,Cash,101439,mhamad,103
+440,36,Female,Espresso,Small,2.4,Credit Card,101440,sarfraz,103
+441,49,Female,Cappuccino,Small,2.4,Mobile Payment,101441,Daryan,101
+442,25,Female,Espresso,Medium,3.9,Credit Card,101442,sarfraz,101
+443,21,Female,Frappuccino,Large,5.2,Credit Card,101443,sarfraz,101
+444,42,Male,Hot Chocolate,Small,2.4,Cash,101444,mirko ,101
+445,40,Female,Latte,Medium,3.9,Credit Card,101445,mirko ,101
+446,37,Female,Iced Tea,Large,5.2,Mobile Payment,101446,mhamad,100
+447,40,Female,Mocha,Large,5.2,Credit Card,101447,sarfraz,103
+448,26,Female,Espresso,Medium,3.9,Cash,101448,Daryan,103
+449,24,Female,Cold Chocolate,Small,2.4,Cash,101449,sarfraz,103
+450,38,Female,Cold Brew,Small,2.4,Credit Card,101450,sarfraz,100
+451,49,Female,Mocha,Large,5.2,Mobile Payment,101451,mirko ,101
+452,17,Female,Cold Chocolate,Small,2.4,Mobile Payment,101452,mirko ,102
+453,39,Male,Hot Chocolate,Small,2.4,Cash,101453,mhamad,103
+454,40,Female,Mocha,Medium,3.9,Cash,101454,sarfraz,102
+455,47,Female,Espresso,Medium,3.9,Cash,101455,Daryan,100
+456,48,Male,Cappuccino,Medium,3.9,Mobile Payment,101456,sarfraz,102
+457,21,Male,Cappuccino,Large,5.2,Credit Card,101457,sarfraz,101
+458,34,Male,Frappuccino,Medium,3.9,Credit Card,101458,mirko ,100
+459,42,Female,Cappuccino,Small,2.4,Credit Card,101459,mirko ,101
+460,49,Male,Cappuccino,Medium,3.9,Cash,101460,mhamad,100
+461,25,Male,Latte,Medium,3.9,Credit Card,101461,sarfraz,103
+462,42,Male,Frappuccino,Medium,3.9,Cash,101462,Daryan,102
+463,30,Female,Latte,Large,5.2,Mobile Payment,101463,sarfraz,101
+464,21,Male,Americano,Medium,3.9,Mobile Payment,101464,sarfraz,102
+465,48,Female,Latte,Small,2.4,Mobile Payment,101465,mirko ,101
+466,20,Male,Mocha,Small,2.4,Credit Card,101466,mirko ,102
+467,26,Male,Latte,Large,5.2,Credit Card,101467,mhamad,103
+468,48,Male,Cold Brew,Small,2.4,Cash,101468,sarfraz,100
+469,27,Female,Espresso,Small,2.4,Mobile Payment,101469,mirko ,100
+470,20,Male,Cappuccino,Small,2.4,Mobile Payment,101470,mirko ,103
+471,30,Male,Hot Chocolate,Small,2.4,Credit Card,101471,mhamad,101
+472,25,Female,Americano,Medium,3.9,Credit Card,101472,sarfraz,101
+473,18,Female,Mocha,Large,5.2,Mobile Payment,101473,Daryan,101
+474,47,Male,Frappuccino,Small,2.4,Mobile Payment,101474,sarfraz,100
+475,34,Male,Frappuccino,Medium,3.9,Cash,101475,sarfraz,102
+476,40,Male,Cold Brew,Large,5.2,Mobile Payment,101476,mirko ,101
+477,33,Female,Latte,Medium,3.9,Mobile Payment,101477,mirko ,100
+478,41,Male,Cold Brew,Large,5.2,Cash,101478,mhamad,102
+479,25,Female,Cold Chocolate,Small,2.4,Mobile Payment,101479,sarfraz,103
+480,39,Male,Iced Tea,Medium,3.9,Credit Card,101480,Daryan,103
+481,47,Female,Cappuccino,Small,2.4,Cash,101481,sarfraz,103
+482,24,Male,Iced Tea,Large,5.2,Credit Card,101482,sarfraz,100
+483,24,Male,Frappuccino,Medium,3.9,Cash,101483,mirko ,103
+484,49,Male,Iced Tea,Large,5.2,Cash,101484,mirko ,103
+485,25,Male,Latte,Large,5.2,Cash,101485,mhamad,100
+486,43,Female,Frappuccino,Small,2.4,Mobile Payment,101486,sarfraz,100
+487,17,Male,Cold Brew,Large,5.2,Cash,101487,Daryan,100
+488,20,Female,Latte,Large,5.2,Credit Card,101488,sarfraz,102
+489,35,Male,Americano,Medium,3.9,Credit Card,101489,sarfraz,102
+490,31,Male,Hot Chocolate,Large,5.2,Mobile Payment,101490,mirko ,103
+491,45,Female,Cold Brew,Small,2.4,Credit Card,101491,mirko ,103
+492,40,Female,Americano,Large,5.2,Credit Card,101492,mhamad,101
+493,17,Female,Latte,Large,5.2,Mobile Payment,101493,sarfraz,100
+494,31,Male,Cold Brew,Medium,3.9,Mobile Payment,101494,Daryan,101
+495,30,Male,Cold Chocolate,Large,5.2,Credit Card,101495,sarfraz,101
+496,45,Female,Latte,Large,5.2,Cash,101496,sarfraz,102
+497,17,Male,Iced Tea,Small,2.4,Mobile Payment,101497,mirko ,100
+498,17,Male,Cappuccino,Medium,3.9,Cash,101498,mirko ,102
+499,28,Female,Latte,Large,5.2,Mobile Payment,101499,mhamad,100
+500,35,Male,Frappuccino,Large,5.2,Cash,101500,sarfraz,101
